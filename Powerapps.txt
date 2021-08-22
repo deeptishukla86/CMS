@@ -1,0 +1,4 @@
+OnSelect = ResetForm(Form1); NewForm(Form1)
+OnSelect = Submit(Form1);NewForm(Form1)
+
+https://diyd365.com/category/d365champs/
